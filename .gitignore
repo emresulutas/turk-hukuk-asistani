@@ -7,9 +7,6 @@ __pycache__/
 venv/
 env/
 
-# Veritabanı ve İndeksler (GitHub'a atılmaz, yerelde oluşturulur)
-chroma_db/
-storage/
 
 # Sistem dosyaları
 .DS_Store
