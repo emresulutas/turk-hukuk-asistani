@@ -1,0 +1,21 @@
+# Python gereksizleri
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Sanal Ortam (Herkes kendi kurmalı)
+venv/
+env/
+
+# Veritabanı ve İndeksler (GitHub'a atılmaz, yerelde oluşturulur)
+chroma_db/
+storage/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Hassas Bilgiler / API Keyler
+.env
+api_key.txt
+secrets.toml
